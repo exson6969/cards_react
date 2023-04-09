@@ -2,7 +2,7 @@
 
 A single page responsive website created for showcase the data avaliabe thorough the API.
 
-## Texh Stack
+## Tech Stack
 
 * React.js + vite
 * Tailwind css
